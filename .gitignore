@@ -1,7 +1,5 @@
 .venv/
 artifacts/
-data/**/imgs/
-data/**/model/
 __pycache__/
 *.pyc
 *.pyo
