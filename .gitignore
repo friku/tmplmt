@@ -1,0 +1,14 @@
+.venv/
+artifacts/
+data/**/imgs/
+data/**/model/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+Thumbs.db
